@@ -28,4 +28,4 @@ This project demonstrates how to create a visually engaging scroll-opening page 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vickeymadhukar/Scroll-Opening-Page.git
+   git clone https://github.com/vickeymadhukar/ScrollOpening.git
