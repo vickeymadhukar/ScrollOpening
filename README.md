@@ -22,7 +22,11 @@ This project demonstrates how to create a visually engaging scroll-opening page 
 
 ![image](https://github.com/user-attachments/assets/1fb29041-7538-4986-a2f1-8e02380b91d9)
 
+
 "Replace `path/to/your/image.jpg` with the actual path to your preview image."
+
+## website
+https://vickeymadhukar.github.io/ScrollOpening/
 
 ## Getting Started
 
